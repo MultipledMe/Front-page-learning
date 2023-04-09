@@ -1,8 +1,1 @@
-```puml
-html -> css -> js
-```
-```plantuml
-digraph Test {
-A -> B
-}
-```
+markdown 暂时只在JetBrains可用
